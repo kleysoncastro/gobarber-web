@@ -6,6 +6,11 @@ export const Conteiner = styled.div`
   height: 100vh;
   display: flex;
   align-items: stretch;
+  P {
+    font-size: 24px;
+    font-family: 'Roboto Slab';
+    margin-bottom: 20px;
+  }
 `;
 
 export const Content = styled.div`
